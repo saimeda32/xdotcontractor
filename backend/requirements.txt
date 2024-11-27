@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pandas
+sqlalchemy
+psycopg2-binary
+python-jose
+passlib
+reportlab
+python-multipart
+pydantic
+openpyxl
+alembic
+psycopg2
+pandas
+fpdf
